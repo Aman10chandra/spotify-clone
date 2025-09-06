@@ -1,1 +1,1 @@
-a spotify clone build usin react + javascript
+a spotify clone build using react + javascript
